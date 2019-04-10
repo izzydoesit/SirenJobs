@@ -12,8 +12,8 @@ $ Job listing should be filterable by company, level, location, and job category
 $ Clicking the job title to be able to see the full details of a specific position 
 → MORE button to reveal rest of description
 
-$Search for a job by title only
+$ Search for a job by title only
 → ElasticSearch for Jobs
 
-Ingest data at the command line or via a web page either from flat files or the API listed below
+$ Ingest data at the command line or via a web page either from flat files or the API listed below
 → CONSUME THE MUSE API
