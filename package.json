@@ -1,0 +1,31 @@
+{
+  "name": "sirenjobs",
+  "version": "1.0.0",
+  "description": "\"Multivariable GraphQL app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/izzydoesit/SirenJobs.git%22.git"
+  },
+  "keywords": [
+    "'graphql",
+    "query",
+    "react",
+    "node'"
+  ],
+  "author": "Israel D. Matos",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/izzydoesit/SirenJobs.git%22/issues"
+  },
+  "homepage": "https://github.com/izzydoesit/SirenJobs.git%22#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "lodash": "^4.17.11"
+  }
+}
