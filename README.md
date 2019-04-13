@@ -89,4 +89,8 @@ You will also see any lint errors in the console.
 
 ### `npm run dev`
 
-Launches the Express server with Nodemon for automatic server restart on file changes
+Launches the Express server with Nodemon.<br>
+Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view GraphiQL interface in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
